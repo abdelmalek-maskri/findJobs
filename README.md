@@ -23,4 +23,5 @@ React will run on : http://localhost:3000
 npm run dev
 
 Build for Production: npm run build
+
 Preview Production Build: npm run preview
